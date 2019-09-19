@@ -14,6 +14,7 @@
 		AC96F1932332EE7F00425E89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC96F1912332EE7F00425E89 /* LaunchScreen.storyboard */; };
 		AC96F19E2332EE8000425E89 /* mega_senaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC96F19D2332EE8000425E89 /* mega_senaTests.swift */; };
 		AC96F1A92332EE8000425E89 /* mega_senaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC96F1A82332EE8000425E89 /* mega_senaUITests.swift */; };
+		AC96F1B72332F0CC00425E89 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC96F1B62332F0CC00425E89 /* RoundedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AC96F1A42332EE8000425E89 /* mega senaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mega senaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC96F1A82332EE8000425E89 /* mega_senaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mega_senaUITests.swift; sourceTree = "<group>"; };
 		AC96F1AA2332EE8000425E89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC96F1B62332F0CC00425E89 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AC96F1882332EE7E00425E89 /* AppDelegate.swift */,
 				AC96F18A2332EE7E00425E89 /* ViewController.swift */,
 				AC96F18C2332EE7E00425E89 /* Main.storyboard */,
+				AC96F1B62332F0CC00425E89 /* RoundedButton.swift */,
 				AC96F18F2332EE7F00425E89 /* Assets.xcassets */,
 				AC96F1912332EE7F00425E89 /* LaunchScreen.storyboard */,
 				AC96F1942332EE7F00425E89 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC96F18B2332EE7E00425E89 /* ViewController.swift in Sources */,
+				AC96F1B72332F0CC00425E89 /* RoundedButton.swift in Sources */,
 				AC96F1892332EE7E00425E89 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
